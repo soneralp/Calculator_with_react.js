@@ -6,7 +6,7 @@ This is a simple calculator built using React.js.
 
 To install and run the application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/soneralp/react-calculator.git`
+1. Clone the repository: `git clone https://github.com/soneralp/Calculator_with_react.js.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and navigate to `http://localhost:3000`
